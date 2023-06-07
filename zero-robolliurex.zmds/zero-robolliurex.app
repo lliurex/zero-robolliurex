@@ -1,0 +1,17 @@
+Name=Robolliurex.
+Name[es]=Robolliurex.
+Name[en]=Robolliurex.
+Name[qcv]=Robolliurex.
+Name[ca_ES]=Robolliurex.
+Comment=Robolliurex, Lego program.
+Comment[es]=Robolliurex, programa de Lego.
+Comment[qcv]=Robolliurex, programa per a Lego.
+Comment[ca_ES]=Robolliurex, programa per a Lego.
+Icon=zero-robolliurex
+Groups=sudo;admins;teachers
+Category=Support
+ScriptPath=zero-robolliurex.zmd
+Using=pkexec
+Service=False
+Modal=True
+Locks=zero-robolliurex

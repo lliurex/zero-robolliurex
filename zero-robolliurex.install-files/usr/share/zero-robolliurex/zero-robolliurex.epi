@@ -1,0 +1,11 @@
+{
+
+	"type":"apt",
+
+	"pkg_list": [{"name":"robolliurex","key_store":"zero-robolliurex","custom_name":"Robolliurex: Lego program.","custom_icon":"robolliurex.png"}],
+
+	"zomando":"zero-robolliurex",
+
+	"custom_icon_path":"/usr/share/zero-robolliurex/"
+
+	}
