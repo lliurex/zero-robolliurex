@@ -1,0 +1,13 @@
+Source: zero-robolliurex
+Section: x11
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Uploaders: Daniel Duran Vecino <daduve@gmail.com>
+Build-Depends: llxsrchelper,debhelper (>= 10), zero-dev, inkscape(>=0.47)
+Standards-Version: 4.1.2
+
+Package: zero-robolliurex
+Architecture: all
+Depends: zero-center,epi-gtk
+Description: Zero Robolliurex installer Lego program.
+	Adding lego drivers and program to program it.
