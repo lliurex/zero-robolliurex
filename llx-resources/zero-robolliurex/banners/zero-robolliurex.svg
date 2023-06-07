@@ -270,7 +270,7 @@
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
      inkscape:cy="75.418167"
-     inkscape:cx="158.16866"
+     inkscape:cx="76.166363"
      inkscape:zoom="3.34137"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -3330,38 +3330,42 @@
          id="path1484" />
     </g>
     <g
-       id="g1994"
-       transform="matrix(1.0046433,0,0,0.8245289,25.493131,48.005695)"
-       style="fill:#000000;filter:url(#filter32812)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.91644px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172912"
-         x="0.67908603"
-         y="203.31209"
-         id="text7286"
-         transform="scale(0.71740731,1.3939083)"><tspan
-           sodipodi:role="line"
-           id="tspan7284"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';stroke-width:0.172912;fill:#000000"
+       id="g1683"
+       transform="translate(-2.0599897,-0.07787434)">
+      <g
+         id="g1994"
+         transform="matrix(1.0046433,0,0,0.8245289,25.493131,48.005695)"
+         style="fill:#000000;filter:url(#filter32812)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.91644px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.172912"
            x="0.67908603"
-           y="203.31209">ROBOLLIUREX</tspan></text>
-    </g>
-    <g
-       id="g1994-3"
-       transform="matrix(1.0046433,0,0,0.8245289,25.795828,47.722121)"
-       style="fill:#d18400;fill-opacity:1;stroke:#ffe07a;stroke-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.91644px;line-height:1.25;font-family:sans-serif;fill:#d18400;fill-opacity:1;stroke:#ffe07a;stroke-width:0.172912;stroke-opacity:1"
-         x="0.67908603"
-         y="203.31209"
-         id="text7286-1"
-         transform="scale(0.71740731,1.3939083)"><tspan
-           sodipodi:role="line"
-           id="tspan7284-9"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#d18400;fill-opacity:1;stroke:#ffe07a;stroke-width:0.172912;stroke-opacity:1"
+           y="203.31209"
+           id="text7286"
+           transform="scale(0.71740731,1.3939083)"><tspan
+             sodipodi:role="line"
+             id="tspan7284"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#000000;stroke-width:0.172912"
+             x="0.67908603"
+             y="203.31209">ROBOLLIUREX</tspan></text>
+      </g>
+      <g
+         id="g1994-3"
+         transform="matrix(1.0046433,0,0,0.8245289,25.795828,47.722121)"
+         style="fill:#d18400;fill-opacity:1;stroke:#ffe07a;stroke-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:6.91644px;line-height:1.25;font-family:sans-serif;fill:#d18400;fill-opacity:1;stroke:#ffe07a;stroke-width:0.172912;stroke-opacity:1"
            x="0.67908603"
-           y="203.31209">ROBOLLIUREX</tspan></text>
+           y="203.31209"
+           id="text7286-1"
+           transform="scale(0.71740731,1.3939083)"><tspan
+             sodipodi:role="line"
+             id="tspan7284-9"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Inter;-inkscape-font-specification:'Inter Semi-Bold';fill:#d18400;fill-opacity:1;stroke:#ffe07a;stroke-width:0.172912;stroke-opacity:1"
+             x="0.67908603"
+             y="203.31209">ROBOLLIUREX</tspan></text>
+      </g>
     </g>
     <g
        id="XMLID_3164_-6"
