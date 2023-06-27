@@ -4,6 +4,8 @@
 
 	"pkg_list": [{"name":"robolliurex","key_store":"zero-robolliurex","custom_name":"Robolliurex: Lego program.","custom_icon":"robolliurex.png"}],
 
+	"script": {"name":"/usr/share/zero-robolliurex/zero-robolliurex_script", "remove":true},
+
 	"zomando":"zero-robolliurex",
 
 	"custom_icon_path":"/usr/share/zero-robolliurex/"
