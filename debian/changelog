@@ -1,3 +1,9 @@
+zero-robolliurex (0.2) focal; urgency=medium
+
+  * Adding package remove.
+
+ -- Daniel Duran <daduve@gmail.com>  Tue, 27 Jun 2023 13:00:16 +0200
+
 zero-robolliurex (0.1) focal; urgency=medium
 
   * Initial release.
